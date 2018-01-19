@@ -27,10 +27,10 @@ Instructions:
 - [X] 1. Modify main.cpp by uncommenting the code to output "hello, world".  
 - [X] 2. Build and run the program.  
 - [X] 3. Update this README.md file.  
-- [ ] 4. Clean the project.  
-- [ ] 5. Commit your changes.  
-- [ ] 6. Push your changes to your repository. 
-- [ ] 7. Perform a Pull Request (PR). 
+- [X] 4. Clean the project.  
+- [X] 5. Commit your changes.  
+- [X] 6. Push your changes to your repository. 
+- [X] 7. Perform a Pull Request (PR). 
 
 Your submission must be 100% correct. 
 
